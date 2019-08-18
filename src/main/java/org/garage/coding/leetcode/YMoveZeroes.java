@@ -19,10 +19,10 @@ import java.util.Arrays;
  *
  * 
  */
-public class MoveZeroes {
+public class YMoveZeroes {
 
 	public static void main(String[] args) {
-		MoveZeroes demo = new MoveZeroes();
+		YMoveZeroes demo = new YMoveZeroes();
 		int[] nums = {0, 1, 0, 3, 12};
 		demo.moveZeroes(nums);
 		System.out.println(Arrays.toString(nums));
