@@ -1,10 +1,8 @@
-package org.garage.coding.array;
+package org.garage.coding.datastructures.array;
 
-public class ArrayGarage {
 
-}
 
-class DynamicArray {
+public class DynamicArray {
 	private int[] array;
 	private final int CAPACITY = 5;
 	private int size = 0;

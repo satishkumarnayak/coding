@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import java.util.Arrays;
 
+import org.garage.coding.datastructures.array.DynamicArray;
 import org.junit.Before;
 import org.junit.Test;
 
